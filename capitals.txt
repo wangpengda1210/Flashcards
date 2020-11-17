@@ -1,0 +1,2 @@
+"Japan":"Tokyo"
+"France":"Paris"

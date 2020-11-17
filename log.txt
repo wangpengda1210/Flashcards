@@ -1,0 +1,69 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+import
+File name:
+a.txt
+2 cards have been loaded.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+e
+The definition of the card:
+f
+The pair ("e":"f") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+remove
+Which card?
+q
+Can't remove "q": there is no such card.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+remove
+Which card?
+e
+The card has been removed.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest card is "c". You have 11 errors answering it.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+1
+Print the definition of "a":
+f
+Wrong. The right answer is "b".
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+1
+Print the definition of "c":
+b
+Wrong. The right answer is "d", but your definition is correct for "a".
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+1
+Print the definition of "a":
+b
+Correct!
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+export
+File name:
+a.txt
+2 cards have been saved.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+reset stats
+Card statistics have been reset.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+log.txt
+
